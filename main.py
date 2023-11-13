@@ -7,7 +7,7 @@ import urequests as requests
 
 from machine import Pin
 
-ssid = '{YOR_SSID}'
+ssid = '{YOUR_SSID}'
 password = '{PASSWORD}'
 
 wlan = network.WLAN(network.STA_IF)
